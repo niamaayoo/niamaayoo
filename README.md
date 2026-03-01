@@ -30,5 +30,5 @@
 ---
 
 ## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/niama-a-a265573b3/
+- LinkedIn: https://www.linkedin.com/in/niama-ayouch/
 - Email: niamaayoo@gmail.com
