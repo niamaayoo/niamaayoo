@@ -16,8 +16,8 @@
 
 ## 🛠️ Tech Stack
 - 💻 Languages: HTML, CSS, JavaScript, PHP
-- ⚙️ Frameworks: Laravel
-- 🗄️ Database: MySQL
+- ⚙️ Frameworks: Laravel,react
+- 🗄️ Database: MySQL,Nosql
 - 🧰 Tools: Git, GitHub, VS Code
 
 ---
