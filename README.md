@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Nina
 
-<!--
-**niamaayoo/niamaayoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Digital Development Student | Full Stack Learner  
+📍 Morocco  
+🎯 Interested in Web Development & Software Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 2nd year student in Digital Development (ISTA NTIC)
+- 🌱 Currently learning Laravel & MySQL
+- 💡 Passionate about building web applications
+- 🎯 Goal: Become a Full Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: HTML, CSS, JavaScript, PHP
+- ⚙️ Frameworks: Laravel
+- 🗄️ Database: MySQL
+- 🧰 Tools: Git, GitHub, VS Code
+
+---
+
+## 📂 Projects
+- 🔹 Student Management System (Laravel)
+- 🔹 Portfolio Website
+- 🔹 CRUD Application (PHP & MySQL)
+
+---
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/niama-a-a265573b3/
+- Email: niamaayoo@gmail.com
